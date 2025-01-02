@@ -13,7 +13,6 @@
         <module>sofa-ark-plugin</module>
     </modules>
 
-    
     <properties>
         <sofa.ark.version>2.2.16</sofa.ark.version>
         <sofa.ark.version.old>2.2.15</sofa.ark.version.old>
